@@ -11,7 +11,7 @@ import SwiftUI
 struct LayoutExercisesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LayoutOne()
         }
     }
 }
